@@ -1,0 +1,40 @@
+body {
+	justify-content: center;
+	background-color: black;
+}
+
+#container {
+	margin: auto;
+	margin-top: 150px;
+	width: 500px;
+	padding: 50px;
+	background: linear-gradient(tomato,yellowgreen);
+	box-shadow: 10px 10px 20px tomato;
+	border-radius: 15px;
+}
+
+#chrono {
+	font-size: 75px;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+li {
+	position: relative;
+	display: inline-block;
+	list-style: none;
+	left: 55px;
+}
+
+button {
+	width: 100px;
+	height: 50px;
+	font-size: 15px;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: tomato;
+	color: white;
+}
