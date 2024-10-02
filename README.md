@@ -1,1 +1,1 @@
-Mon premiers chronomètre Javascript
+Mon chronomètre Javascript
